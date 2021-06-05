@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(#4287f5, #c5d4eb);
+}
+h1 {
+    font-size: 30px;
+        color: darkblue
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
+marquee {
+    background-color: darkseagreen;
+    color: white;
+}
+#video {
+    height: 90%;
+    width: 100%
+}
+h2 {
+    color: greenyellow;
+    text-align: center;
+    font-family: cursive;
+}
+float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float1 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid forestgreen;
+}  
+.float2 {
+    width: 50%;
+    float: right;
+    padding: 20px;
+    border: 2px solid forestgreen;
+} 
+h3 {
+    color: indianred
+}
+h4 {
+    color: navy
+}
+h5 {
+    color: forestgreen
+}
